@@ -30,6 +30,9 @@ The dashboard helps stakeholders understand:
 ## 📈 Dashboard 
 - <a href="https://github.com/Pronobcb/Coffee-Shop-Sales-Analysis-Excel/blob/main/Coffee%20Shop%20Sales%20Dashboard.png"> Dashboard View </a>
 
+- <img width="1242" height="674" alt="Coffee Shop Sales Dashboard" src="https://github.com/user-attachments/assets/c0ff610b-e630-4476-ad47-c814fbe468e6" />
+
+
 ### 🔹 KPI Cards
 - Total Transactions
 - Total Quantity Sold
