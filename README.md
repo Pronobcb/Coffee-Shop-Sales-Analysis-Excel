@@ -27,7 +27,8 @@ The dashboard helps stakeholders understand:
 
 ---
 
-## 📈 Dashboard Features
+## 📈 Dashboard 
+- <a href="https://github.com/Pronobcb/Coffee-Shop-Sales-Analysis-Excel/blob/main/Coffee%20Shop%20Sales%20Dashboard.png"> Dashboard View </a>
 
 ### 🔹 KPI Cards
 - Total Transactions
@@ -72,7 +73,10 @@ The dashboard helps stakeholders understand:
 
 ## 📂 Dataset Source
 Dataset was provided by training institute (possibly sourced from Kaggle).
-
+- <a href="https://github.com/Pronobcb/Coffee-Shop-Sales-Analysis-Excel/blob/main/Coffee%20Shop%20Sales%20Dashboard.xlsx"> Dataset View </a>
+---
+## 📂 Report 
+- <a href="https://github.com/Pronobcb/Coffee-Shop-Sales-Analysis-Excel/blob/main/Coffee%20Shop%20Sales%20Report.pdf"> Report View </a>
 ---
 
 ## 🚀 How to Use
@@ -83,9 +87,9 @@ Dataset was provided by training institute (possibly sourced from Kaggle).
 ---
 
 ## 📌 Author
--PRONOB CHAKROBORTY
--LinkedIn : www.linkedin.com/in/pronobcb
--Email : pronob.stat@gmail.com
+- PRONOB CHAKROBORTY
+- LinkedIn : www.linkedin.com/in/pronobcb
+- Email : pronob.stat@gmail.com
 
 ---
 
