@@ -1,13 +1,9 @@
-# Coffee-Shop-Sales-Analysis-Excel
+# ☕ Coffee Shop Sales Analysis (Excel Dashboard)
 
 ## 📌 Project Overview
-This project presents an interactive **Coffee Shop Sales Dashboard** built using Power BI. It analyzes sales performance across different years, months, categories, and cities to generate business insights.
+This project presents an interactive Excel dashboard to analyze coffee shop sales performance, focusing on revenue, transactions, and product trends.
 
-The dashboard helps stakeholders understand:
-- Sales trends
-- Customer purchasing behavior
-- Profitability
-- Category-wise performance
+The goal is to identify key sales patterns and provide insights to improve business performance.
 
 ---
 
@@ -16,9 +12,14 @@ The dashboard helps stakeholders understand:
 - Identify top-performing categories and cities
 - Track monthly and yearly sales trends
 - Understand weekday sales patterns
-
 ---
-
+## 🎯 Business Problem
+Coffee shop owners need to understand:
+- Which products generate the most revenue  
+- When sales are highest  
+- Which locations perform best  
+This dashboard helps answer these questions using data.
+--- 
 ## 📊 Key Metrics
 - **Total Transactions:** 9,971  
 - **Total Quantity Sold:** 14,117  
